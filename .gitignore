@@ -1,0 +1,7 @@
+credentials/
+token.pickle
+
+__pycache__/
+*.pyc
+
+venv/
